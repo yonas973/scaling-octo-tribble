@@ -1,4 +1,9 @@
-My first Git project status
-Git pull practice
-This is my feature branch
-Pull Request practice
+# My First Git Project
+
+This is my first project using Git and GitHub.
+
+## What I learned
+- Git basics
+- Branches
+- Merging
+- Pull Requests
